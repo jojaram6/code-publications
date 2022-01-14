@@ -1,4 +1,4 @@
-# preprints
+# Jaramillo J, Pereira U, Svoboda K. Wang X.-J. Subcortical modulation of cortical dynamics for motor planning: a computational framework. 
 
 In this manuscript, I develop a computational framework to study motor planning 
 in the mouse. I tackle the important question of why the thalamus is needed to sustain memory activity during a stimulus-absent delay period 
